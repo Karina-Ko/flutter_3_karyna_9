@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "926108914640",
+    "firebase_url": "https://students-220a4-default-rtdb.firebaseio.com",
+    "project_id": "students-220a4",
+    "storage_bucket": "students-220a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926108914640:android:572a67d768b55faa6b9fd5",
+        "android_client_info": {
+          "package_name": "com.example.karyna_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mIg1pKGu8eryOEgR_lC9KCRooFgtco8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
